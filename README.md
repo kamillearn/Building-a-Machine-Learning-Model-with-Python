@@ -12,3 +12,5 @@ The following topics covered in the project.
 5. Building a regression model
 6. Model evaluation
 7. Model prediction
+
+[Machine Learning Model](https://github.com/kamillearn/Building-a-Machine-Learning-Model-with-Python/blob/main/MLMP.ipynb)
